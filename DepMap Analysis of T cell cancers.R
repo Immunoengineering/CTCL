@@ -3,7 +3,7 @@
 # Corresponding manuscript figures: Figure S3A, S3B and S3C
 
 #Setting work directory
-setwd("C:/Users/soumitra.marathe/OneDrive - Karolinska Institutet/Skrivbordet/Diti work") # Adjust to your own path
+setwd("C:/XXXX") # Adjust to your own path
 
 
 #Load necessary libraries
