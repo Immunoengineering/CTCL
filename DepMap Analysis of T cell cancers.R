@@ -1,4 +1,4 @@
-# Cancer Research Journal: Supporting R code for generating figures
+# Molecular Cancer Research Journal: Supporting R code for generating figures
 # This script generates plots for analyzing CFL1 and HIF1A CRISPR KO gene effect vs expression
 # Corresponding manuscript figures: Figure S3A, S3B and S3C
 
